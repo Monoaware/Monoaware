@@ -41,7 +41,7 @@ happiness scores (on a scale from 0-10).
 
 📫 **HOW TO REACH ME:**
 
-**Email:** gloriadwork@outlook.com
+**Email:** gloriad.work@outlook.com
 
 **LinkedIn:** www.linkedin.com/in/gloriaduo
 

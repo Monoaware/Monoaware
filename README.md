@@ -1,4 +1,4 @@
-**## Hi, I'm Gloria!**
+## **Hi, I'm Gloria!**
 
 🎓 **Senior at San Jose State University studying Computer Science.**
 

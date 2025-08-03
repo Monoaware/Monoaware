@@ -29,7 +29,7 @@ happiness scores (on a scale from 0-10).
   
 * *Random Forest:* * R^2: 0.88, RMSE: 0.395
 
-**Check it out here:** 
+**Check it out here:** https://github.com/Monoaware/Happiness-Predictor
 
 🛠 **TECH STACK:**
 

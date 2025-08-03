@@ -47,7 +47,7 @@ happiness scores (on a scale from 0-10).
 
 ✨ **FUN FACT:**
 
-I love coconut coffee lattes and chocolate-flavored FairLife shakes! 
+I love coconut coffee lattes and chocolate-flavored Fairlife shakes! 
 These are my go-to beverages outside of a warm cup of green tea or
 plain water.
 
